@@ -1,5 +1,4 @@
 
-```markdown
 # Kenyan Economy Crisis FIS
 
 > *What if you could capture the unpredictable pulse of a nation’s economy with a simple, interactive tool?*  
