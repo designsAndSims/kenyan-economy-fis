@@ -52,12 +52,11 @@ Users can interact with the system via sliders and view real-time updates on out
 ## Screenshots
 
 <!-- Replace with actual images -->
-![UI Screenshot](images/ui_screenshot.png)
-![Membership Functions Plot](images/mf_plot.png)
-![3D Surface Visualization](images/3d_surface.png)
+![UI Screenshot](images/UI_screenshot.png)
+![](images/Kenyan_Economic_Crisis_Risk.mp4)
 
-<video width="640" controls>
-  <source src="images/Kenyan Economic Crisis Risk.mp4" type="video/mp4">
+<video width="720" controls>
+  <source src="images/Kenyan_Economic_Crisis_Risk.mp4" type="video/mp4">
 </video>
 
 
