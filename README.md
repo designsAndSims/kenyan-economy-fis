@@ -56,6 +56,11 @@ Users can interact with the system via sliders and view real-time updates on out
 ![Membership Functions Plot](images/mf_plot.png)
 ![3D Surface Visualization](images/3d_surface.png)
 
+<video width="640" controls>
+  <source src="images/Kenyan Economic Crisis Risk.mp4" type="video/mp4">
+</video>
+
+
 ## Project Structure
 
 ```
